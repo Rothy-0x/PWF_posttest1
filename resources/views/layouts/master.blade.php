@@ -41,10 +41,15 @@
             </ul>
         </div>
     </nav>
+    <br>
     {{-- navbar section end--}}
-    <main>
-        @section('home')
-    </main>
+
+
+    {{-- content section --}}
+
+    @yield('landing')
+
+    {{-- content section end --}}
     {{-- footer section --}}
     <footer class="bg-dark text-white py-5">
         <div class="container">
@@ -85,5 +90,7 @@
     </footer>
 
     {{-- footer section end --}}
+
+    <script src="index.js"></script>
 </body>
 </html>
