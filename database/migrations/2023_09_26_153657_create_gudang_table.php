@@ -24,6 +24,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('gudang_table_');
+        Schema::dropIfExists('gudang_table');
     }
 };

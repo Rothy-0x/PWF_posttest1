@@ -50,47 +50,7 @@
     @yield('landing')
 
     {{-- content section end --}}
-    {{-- footer section --}}
-    <footer class="bg-dark text-white py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3">
-                    <img src="adidas-logo.png" alt="Adidas Logo" class="img-fluid mb-3">
-                    <ul class="list-unstyled">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Products</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-6">
-                    <h5>Newsletter Signup</h5>
-                    <p>Subscribe to our newsletter for updates and exclusive offers.</p>
-                    <form>
-                        <div class="input-group">
-                            <input type="email" class="form-control" placeholder="Enter your email">
-                            <div class="input-group-append">
-                                <button class="btn btn-primary" type="button">Subscribe</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-md-3">
-                    <h5>Follow Us</h5>
-                    <ul class="list-unstyled social-icons">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <hr class="my-4">
-            <p>&copy; 2023 Adidas. All Rights Reserved.</p>
-        </div>
-    </footer>
-
-    {{-- footer section end --}}
-
+    
     <script src="index.js"></script>
 </body>
 </html>
