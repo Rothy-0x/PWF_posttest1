@@ -6,10 +6,11 @@
 					<div class="row justify-content-between">
 						<div class="col-lg-5">
 							<div class="intro-excerpt">
-								<h1>Modern Interior <span clsas="d-block">Design Studio</span></h1>
-								<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-								<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
-							</div>
+								<h1>Modern Store <span clsas="d-block">Royal Shoes</span></h1>
+								<p class="mb-4"> Discover the latest styles, comfort, and fashion trends effortlessly through an intuitive interface. With a diverse and up-to-date collection.</p>
+                                <p><a href="/shop" class="btn btn-secondary me-2">Shop Now</a></p>
+							{{-- <a href="#" class="btn btn-white-outline">Explore</a> --}}
+                            </div>
 						</div>
 						<div class="col-lg-7">
 							<div class="hero-img-wrap">
@@ -28,9 +29,9 @@
 
 					<!-- Start Column 1 -->
 					<div class="col-md-12 col-lg-3 mb-5 mb-lg-0">
-						<h2 class="mb-4 section-title">Crafted with excellent material.</h2>
-						<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. </p>
-						<p><a href="shop.html" class="btn">Explore</a></p>
+						<h2 class="mb-4 section-title">Top-Tier Shoe Collection.</h2>
+						<p class="mb-4">Exclusive, contemporary style, and exceptional quality in every step.</p>
+						<p><a href="/shop" class="btn">Explore</a></p>
 					</div>
 					<!-- End Column 1 -->
 
@@ -38,8 +39,8 @@
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="cart.html">
 							<img src="assets/product-1.png" class="img-fluid product-thumbnail">
-							<h3 class="product-title">Nordic Chair</h3>
-							<strong class="product-price">$50.00</strong>
+							<h3 class="product-title">Nike Dunk Low Winter Solstice</h3>
+							<strong class="product-price">$80.99</strong>
 
 							<span class="icon-cross">
 								<img src="assets/cross.svg" class="img-fluid">
@@ -52,8 +53,8 @@
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="cart.html">
 							<img src="assets/product-2.png" class="img-fluid product-thumbnail">
-							<h3 class="product-title">Kruzo Aero Chair</h3>
-							<strong class="product-price">$78.00</strong>
+							<h3 class="product-title">Nike Dunk Low SB Bart Simpson</h3>
+							<strong class="product-price">$128.99</strong>
 
 							<span class="icon-cross">
 								<img src="assets/cross.svg" class="img-fluid">
@@ -66,8 +67,8 @@
 					<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
 						<a class="product-item" href="cart.html">
 							<img src="assets/product-3.png" class="img-fluid product-thumbnail">
-							<h3 class="product-title">Ergonomic Chair</h3>
-							<strong class="product-price">$43.00</strong>
+							<h3 class="product-title">Off-White x Nike Air Force 1 Low ‘Lemonade’</h3>
+							<strong class="product-price">$1,229.99</strong>
 
 							<span class="icon-cross">
 								<img src="assets/cross.svg" class="img-fluid">
@@ -87,7 +88,7 @@
 				<div class="row justify-content-between">
 					<div class="col-lg-6">
 						<h2 class="section-title">Why Choose Us</h2>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+						<p>Choose us for unparalleled footwear excellence, where style meets comfort. Our diverse collection, curated with the latest trends, ensures a step above the rest. Experience the epitome of quality and fashion with every pair, making us your ultimate destination for exceptional footwear.</p>
 
 						<div class="row my-5">
 							<div class="col-6 col-md-6">
@@ -96,7 +97,7 @@
 										<img src="assets/truck.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>Fast &amp; Free Shipping</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+									<p>Swift deliveries, no-cost shipping, speedy doorstep service, rapid shipping solutions.</p>
 								</div>
 							</div>
 
@@ -106,7 +107,7 @@
 										<img src="assets/bag.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>Easy to Shop</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+									<p>Effortless browsing, user-friendly interface, seamless transactions, simplified shopping experience.</p>
 								</div>
 							</div>
 
@@ -116,7 +117,7 @@
 										<img src="assets/support.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>24/7 Support</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+									<p>Round-the-clock assistance, instant support, 24-hour customer service, non-stop help center.</p>
 								</div>
 							</div>
 
@@ -126,7 +127,7 @@
 										<img src="assets/return.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>Hassle Free Returns</h3>
-									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+									<p>Easy return process, stress-free product returns, no-fuss return policy, seamless refund system.</p>
 								</div>
 							</div>
 
@@ -135,7 +136,7 @@
 
 					<div class="col-lg-5">
 						<div class="img-wrap">
-							<img src="assets/why-choose-us-img.jpg" alt="Image" class="img-fluid">
+							<img src="assets/why-choose-us-img.png" alt="Image" class="img-fluid">
 						</div>
 					</div>
 
@@ -150,20 +151,20 @@
 				<div class="row justify-content-between">
 					<div class="col-lg-7 mb-5 mb-lg-0">
 						<div class="imgs-grid">
-							<div class="grid grid-1"><img src="assets/img-grid-1.jpg" alt="Untree.co"></div>
+							<div class="grid grid-1"><img src="assets/img-grid-1.png" alt="Untree.co"></div>
 							<div class="grid grid-2"><img src="assets/img-grid-2.jpg" alt="Untree.co"></div>
 							<div class="grid grid-3"><img src="assets/img-grid-3.jpg" alt="Untree.co"></div>
 						</div>
 					</div>
 					<div class="col-lg-5 ps-lg-5">
-						<h2 class="section-title mb-4">We Help You Make Modern Interior Design</h2>
-						<p>Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+						<h2 class="section-title mb-4">We assist you in finding your dream shoes</h2>
+						<p>Embark on a personalized shoe journey with us. Our expert guidance ensures you find your dream pair in our diverse, curated collections. Experience unmatched service and discover the perfect shoes effortlessly.</p>
 
 						<ul class="list-unstyled custom-list my-4">
-							<li>Donec vitae odio quis nisl dapibus malesuada</li>
-							<li>Donec vitae odio quis nisl dapibus malesuada</li>
-							<li>Donec vitae odio quis nisl dapibus malesuada</li>
-							<li>Donec vitae odio quis nisl dapibus malesuada</li>
+							<li>Expert guidance for your individual shoe preferences</li>
+							<li>Diverse selections tailored to match your style</li>
+							<li>Find your dream pair with ease and convenience</li>
+							<li>Exceptional service ensuring your satisfaction and delight</li>
 						</ul>
 						<p><a herf="#" class="btn">Explore</a></p>
 					</div>
@@ -173,7 +174,7 @@
 		<!-- End We Help Section -->
 
 		<!-- Start Popular Product -->
-		<div class="popular-product">
+		{{-- <div class="popular-product">
 			<div class="container">
 				<div class="row">
 
@@ -218,11 +219,11 @@
 
 				</div>
 			</div>
-		</div>
+		</div> --}}
 		<!-- End Popular Product -->
 
 		<!-- Start Testimonial Slider -->
-		<div class="testimonial-section">
+		{{-- <div class="testimonial-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-7 mx-auto text-center">
@@ -316,7 +317,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> --}}
 		<!-- End Testimonial Slider -->
 
 		<!-- Start Blog Section -->
@@ -349,7 +350,7 @@
 						<div class="post-entry">
 							<a href="#" class="post-thumbnail"><img src="assets/post-2.jpg" alt="Image" class="img-fluid"></a>
 							<div class="post-content-entry">
-								<h3><a href="#">How To Keep Your Furniture Clean</a></h3>
+								<h3><a href="#">How To Keep Your Shoes Clean</a></h3>
 								<div class="meta">
 									<span>by <a href="#">Robert Fox</a></span> <span>on <a href="#">Dec 15, 2021</a></span>
 								</div>
