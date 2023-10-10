@@ -14,7 +14,7 @@ Halaman ini berisi beberapa show content dan berisi ajakan agar user merasa aman
 ![Alt text](image-2.png)
 ## Halaman Shop
 Halaman ini berisi sepatu-sepatu yang akan dijual kepada pembeli
-![Alt text](image-3.png)
+![Alt text](image-5.png)
 ## Halaman Contact
 Halaman ini berisi informasi lokasi dimana toko kita berada dan juga user akan bisa mengontak kami dengan mengisi form yang telah disediakan
 ![Alt text](image-4.png)

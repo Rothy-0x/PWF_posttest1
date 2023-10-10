@@ -24,8 +24,8 @@
             <div class="col-12 col-md-4 col-lg-3 mb-5">
                 <a class="product-item" href="#">
                     <img src="assets/product-3.png" class="img-fluid product-thumbnail">
-                    <h3 class="product-title">Nordic Chair</h3>
-                    <strong class="product-price">$50.00</strong>
+                    <h3 class="product-title">Off-White x Nike Air Force 1 Low 'Lemonade'</h3>
+                    <strong class="product-price">$1,229.99</strong>
 
                     <span class="icon-cross">
                         <img src="assets/cross.svg" class="img-fluid">
@@ -38,8 +38,8 @@
             <div class="col-12 col-md-4 col-lg-3 mb-5">
                 <a class="product-item" href="#">
                     <img src="assets/product-1.png" class="img-fluid product-thumbnail">
-                    <h3 class="product-title">Nordic Chair</h3>
-                    <strong class="product-price">$50.00</strong>
+                    <h3 class="product-title">Nike Dunk Low Winter Solstice</h3>
+                    <strong class="product-price">$80.99</strong>
 
                     <span class="icon-cross">
                         <img src="assets/cross.svg" class="img-fluid">
@@ -52,8 +52,8 @@
             <div class="col-12 col-md-4 col-lg-3 mb-5">
                 <a class="product-item" href="#">
                     <img src="assets/product-2.png" class="img-fluid product-thumbnail">
-                    <h3 class="product-title">Kruzo Aero Chair</h3>
-                    <strong class="product-price">$78.00</strong>
+                    <h3 class="product-title">Nike Dunk Low SB Bart Simpson</h3>
+                    <strong class="product-price">$128.99</strong>
 
                     <span class="icon-cross">
                         <img src="assets/cross.svg" class="img-fluid">
@@ -66,8 +66,8 @@
             <div class="col-12 col-md-4 col-lg-3 mb-5">
                 <a class="product-item" href="#">
                     <img src="assets/product-3.png" class="img-fluid product-thumbnail">
-                    <h3 class="product-title">Ergonomic Chair</h3>
-                    <strong class="product-price">$43.00</strong>
+                    <h3 class="product-title">Off-White x Nike Air Force 1 Low 'Lemonade'</h3>
+                    <strong class="product-price">$1,229.99</strong>
 
                     <span class="icon-cross">
                         <img src="assets/cross.svg" class="img-fluid">
